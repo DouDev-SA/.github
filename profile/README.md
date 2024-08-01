@@ -28,7 +28,7 @@
 
 ### Anime Term (en desarrollo)
 **Anime Term** es una aplicación para buscar animes de AnimeFLV desde la terminal o desde una interfaz gráfica (GUI).
-- **Repositorio**: [Anime Term](https://github.com/Dou-Community/term-anime)
+- **Repositorio**: [Anime Term](https://github.com/Dou-Community-S-A/term-anime)
 - **Descripción**:
   - **API AnimeFLV**: Gracias a esta puede encontrar los animes, episodios y links de descarga de animes en AnimeFLV
   - **WebScrapping**: Obtiene el link de Stape, scrapea la URL para seleccionar el archivo `.mp4` y puede reproducirlo en VLC.
