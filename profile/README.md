@@ -31,16 +31,16 @@
 - **Repositorio**: [Anime Term](https://github.com/Dou-Community/term-anime)
 - **Descripción**:
   - **API AnimeFLV**: Gracias a esta puede encontrar los animes, episodios y links de descarga de animes en AnimeFLV
-  - **WebScrapping**: Obtiene el link de Stape, scrappea la URL para seleccionar el archivo `.mp4` y puede reproducirlo en VLC.
+  - **WebScrapping**: Obtiene el link de Stape, scrapea la URL para seleccionar el archivo `.mp4` y puede reproducirlo en VLC.
   - **Descargas**: Obtiene el link de Mega, y descarga el episodio en cuestion y lo elimina al terminar de verlo.
   - **GUI**: En desarrollo
 
 ## Miembros 👥
 
-- **[matutEv](https://github.com/matiasdante)**
+- **[LostDou](https://github.com/lostdou)** - Bot developer and UI designer
 
-- **[LostDou](https://github.com/lostdou)**
+- **[matutEv](https://github.com/matiasdante)** - Backend expert and webscraper
 
-- **[Sharckmerferu](https://github.com/Shackmerferu)**
+- **[Sharckmerferu](https://github.com/Shackmerferu)** - QA Tester and contributor
 
 ---
