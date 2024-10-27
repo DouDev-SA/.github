@@ -39,7 +39,7 @@
 
 - **[LostDou](https://github.com/lostdou)** - Bot developer and UI designer
 
-- **[matutEv](https://github.com/matiasdante)** - Backend expert and webscraper
+- **[matutEv](https://github.com/matiasdante)** - DevOps developer
 
 - **[Sharckmerferu](https://github.com/Shackmerferu)** - QA Tester and contributor
 
