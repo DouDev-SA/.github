@@ -122,7 +122,7 @@ Nuestro stack tecnológico es diverso y se adapta a las necesidades de cada proy
         <sub><b>LostDou</b></sub>
       </a>
       <br />
-      <sub>Bot developer and UI designer</sub>
+      <sub>FullStack Developer</sub>
     </td>
     <td align="center">
       <a href="https://github.com/matiasdante">
@@ -131,7 +131,7 @@ Nuestro stack tecnológico es diverso y se adapta a las necesidades de cada proy
         <sub><b>matutEv</b></sub>
       </a>
       <br />
-      <sub>DevOps developer</sub>
+      <sub>DevOps</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Shackmerferu">
@@ -140,7 +140,7 @@ Nuestro stack tecnológico es diverso y se adapta a las necesidades de cada proy
         <sub><b>Sharckmerferu</b></sub>
       </a>
       <br />
-      <sub>QA Tester and contributor</sub>
+      <sub>Games & Apps Developer</sub>
     </td>
   </tr>
 </table>
