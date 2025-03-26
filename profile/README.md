@@ -64,9 +64,9 @@ DouDev es un colectivo de desarrolladores apasionados que colaboran en proyectos
 
 ---
 
-### 📺 Anime Term (en desarrollo)
+### 📺 Anime Libre
 
-**Anime Term** es una aplicación para buscar animes de AnimeFLV desde la terminal o desde una interfaz gráfica (GUI).
+**Anime Libre** es una aplicación para buscar animes de AnimeFLV desde la terminal o desde una interfaz gráfica (GUI).
 
 #### Características:
 
@@ -78,7 +78,7 @@ DouDev es un colectivo de desarrolladores apasionados que colaboran en proyectos
 #### Tecnologías utilizadas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Repositorio**: [Anime Term](https://github.com/DouDev-SA/term-anime)
+**Repositorio**: [Anime Libre](https://github.com/DouDev-SA/animelibre)
 
 ---
 
