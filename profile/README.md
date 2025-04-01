@@ -135,7 +135,7 @@ Nuestro stack tecnológico es diverso y se adapta a las necesidades de cada proy
       <a href="https://github.com/Shackmerferu">
         <img src="https://avatars.githubusercontent.com/u/91383228?v=4" width="100px;" alt="Shackmerferu"/>
         <br />
-        <sub><b>Sharckmerferu</b></sub>
+        <sub><b>Shackmerferu</b></sub>
       </a>
       <br />
       <sub>Games & Apps Developer</sub>
